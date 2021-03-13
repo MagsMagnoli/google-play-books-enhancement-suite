@@ -8,9 +8,7 @@ A Chrome extension for enhancing Google Play Books
 
 1. Clone the repository
 2. Enable developer options in the chrome extension settings page
-3. Click "load unpacked extension" and point it to your clone of the repository
-
-<img width="735" alt="Screen Shot 2021-03-13 at 4 32 01 PM" src="https://user-images.githubusercontent.com/4146037/111044983-8fa8c180-8400-11eb-8dd5-35bb9d9d6e7d.png">
+3. Click "load unpacked" and point it to your clone of the repository
 
 ## Enhancements
 
