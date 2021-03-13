@@ -2,9 +2,13 @@
 
 A Chrome extension for enhancing Google Play Books
 
+<img src="https://github.com/MagsMagnoli/google-play-books-enhancement-suite/blob/main/docs/screenshot.png" />
+
 ## Enhancements
 
 ### Bulk Delete Books
+
+If you have a lot of books that failed to process or need to free up space on your account, you may need to bulk delete books. This feature deletes all of the books on a specific shelf. 
 
 **Usage**
 
